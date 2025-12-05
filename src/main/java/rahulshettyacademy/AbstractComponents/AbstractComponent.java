@@ -18,7 +18,7 @@ public class AbstractComponent {
 	WebDriver driver;
 
 
-	//This comment is for git testing
+
 	@FindBy(css = "[routerlink*='cart']")
 	WebElement cartHeader;
 
